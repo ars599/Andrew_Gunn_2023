@@ -8,9 +8,10 @@
 > 3. contour plot similar to fill and shade in Ferret
 > 4. FFT
 > 5. Lead and Lag panel plots
-> 6. Animation
-> 7. EEMD
-> 8. Hilbert Transform 
+> 6. get_transect
+> 7. Animation
+> 8. EEMD
+> 9. Hilbert Transform 
 
 * Python tutorial materials (Details at Andrew's web)
 > https://geomorphlab.github.io/medaes/
