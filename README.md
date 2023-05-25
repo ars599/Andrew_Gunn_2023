@@ -2,9 +2,17 @@
 
 <a href="https://zenodo.org/badge/latestdoi/645121988"><img src="https://zenodo.org/badge/645121988.svg" alt="DOI"></a>
 
+* Two Jupytor Notebooks are included and the analysis tools are:
+> 1. Linear regression
+> 2. Scatter plot
+> 3. contour plot similar to fill and shade in Ferret
+> 4. FFT
+> 5. Lead and Lag panel plots
+> 6. Animation
+> 7. EEMD
+> 8. Hilbert Transform 
 
-Python tutorial
-Details at Andrew's web
+* Python tutorial materials (Details at Andrew's web)
 > https://geomorphlab.github.io/medaes/
 
 * How to get the DOI, please follow 
