@@ -13,7 +13,8 @@
 > 8. EEMD
 > 9. Hilbert Transform 
 > 10. up comming... lonpivot in python (similar to NCL lonPivor)
-> 11.
+> 11. Skewness plot with read file function and plot function
+> 12. ....
 
 * Python tutorial materials (Details at Andrew's web)
 > https://geomorphlab.github.io/medaes/
